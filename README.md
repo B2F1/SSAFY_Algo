@@ -11,7 +11,7 @@
 06. [D4 : 1486. [백트래킹] 장훈이의 높은 선반](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZewY0EKsb3HBIN_&contestProbId=AV2b7Yf6ABcBBASw&probBoxId=AZewY0EKsb7HBIN_&type=PROBLEM&problemBoxTitle=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+Track%28%EB%82%9C%EC%9D%B4%EB%8F%84+%EC%83%81%29&problemBoxCnt=3)
 07. [백준 1002번 터렛](https://www.acmicpc.net/problem/1002)
 
-## **📂 1. 폴더 구조**
+## **📂 1. 폴더 구조 및 브랜치 규칙**
 폴더 구조는 루트 디렉토리부터 이름 / 풀이 년월 / 주차 / 풀이 문제 순으로 합니다.
 예: SSAFY_Algo / 김선엽 / 2507 / 3주차 / 01_싸피 알고리즘.py
 
@@ -22,6 +22,17 @@ SSAFY_Algo
 │       └──3주차
 │          └──01_싸피 알고리즘.py
 └── 유재석/
+```
+
+브랜치는 각자 master 브랜치의 하위 브랜치로 생성하시면 됩니다.
+문제를 푼 후에는 각자의 브랜치에 업로드하고, 이후 master 브랜치로 병합해주세요.
+
+예: 
+```
+master
+├──shipleaf
+├──dgsim126
+└──devowl99
 ```
 
 ## **👨‍💻 2. 진행 방식**
